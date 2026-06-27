@@ -1,0 +1,18 @@
+# ~/.config/starship.toml
+
+[username]
+style_user = '#cba6f7 bold' # Smooth Mauve/Purple
+style_root = 'white bold'
+format = '[$user]($style)@'
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+style = "bold #89b4fa" # Soft Pastel Blue
+format = "[$hostname]($style) "
+disabled = false
+
+[shell]
+disabled = false
+style = 'white bold'

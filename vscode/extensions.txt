@@ -1,0 +1,6 @@
+catppuccin.catppuccin-vsc
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+pkief.material-icon-theme
+tombi-toml.tombi
