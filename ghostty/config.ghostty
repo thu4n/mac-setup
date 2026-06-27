@@ -1,1 +1,4 @@
 theme = dark:Catppuccin Mocha,light:Catppuccin Latte
+background-image = /Users/thu4n/mac-setup/ghostty/yuta_cmd_bg_big.png
+background-image-fit = cover
+background-image-opacity = 0.4
